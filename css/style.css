@@ -191,7 +191,7 @@ img {
 
 .class-1 {
     display: flex;
-    justify-content:center;
+    justify-content: center;
     font-size: 1.1vw;
     line-height: 2vw;
     color: rgb(90, 86, 86);
@@ -199,7 +199,7 @@ img {
 
 .about-text2 {
     padding-top: 1vw;
-    
+
 }
 
 
@@ -310,7 +310,7 @@ img {
 }
 
 .fontfamily-4 {
-
+    font-size: 3vw;
     color: #a01742;
 }
 
@@ -494,7 +494,7 @@ table th {
     position: absolute;
     top: 2vw;
     left: 2vw;
-    background: url(/mailicon.svg)no-repeat;
+    background: url(../img/mailicon.svg)no-repeat;
     background-size: cover;
     width: 1.8vw;
     height: 1.8vw;
