@@ -456,6 +456,7 @@ table th {
 .footer-text-estra {
     color: rgb(90, 86, 86);
     margin: 5vw auto;
+    font-size: 1.3vw;
     text-align: center;
     font-weight: bold;
 }
@@ -463,7 +464,7 @@ table th {
 .box {
     display: block;
     width: 0.2vw;
-    height: 3vw;
+    height: 2vw;
     margin: 1vw auto;
     background-color: #c42d92;
 }
@@ -472,6 +473,7 @@ table th {
     text-align: center;
     background-color: rgba(234, 234, 227, 0.621);
     padding: 2vw;
+    margin-top: 5vw;
 }
 
 .form__btn {
@@ -487,6 +489,7 @@ table th {
     box-shadow: 0 0.6vw 0.2vw #8d0c62;
     text-decoration: none;
     font-size: 1.02vw;
+
 }
 
 .form__btn::before {
